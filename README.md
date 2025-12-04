@@ -52,11 +52,4 @@ Description:
 3. Run app.py to start the game.
 
 
-## Group Members
-1. Almuhar, Fatimah A.
-2. Mariposa, Princess Gaelle S.
-3. Narvasa, Jenamae
-4. Catanares, Rosela Havana
-5. Aurelio, Tha Mae
-
 
